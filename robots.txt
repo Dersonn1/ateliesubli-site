@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://ateliesubli.com.br
+Sitemap: https://ateliesubli.com.br/sitemap.xml
